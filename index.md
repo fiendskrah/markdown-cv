@@ -1,86 +1,83 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Dylan Skrah's CV
 ---
-# Isaac Newton
+# Dylan Skrah
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="dylan.skrah@gmail.com">dylan.skrah@gmail.com</a>
+| <a href="https://www.linkedin.com/in/dylanskrah/">My linkdin page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Building geographic models for complex urban problems.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Geographic information systems, spatial data analysis, policy analysis.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+State and municipal policy making: education systems, homelessness, regional economics.
+
+Also casually interested in the proliferation of digital cultures.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2022-Current`
+__Joint Doctrate of Philosophy in Geography__
+_San Diego State Universty_
+_University of California, Santa Barbara_ 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2018-2020`
+__Master of Public Policy__
+_Emphasis in Urban Policy_
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`2016-2018`
+__Bachelor of Arts__
+_Media and Cultural Studies_
 
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+`School-Neighborhoods or Neighborhood-Schoools`
+_forthcoming_
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Career Summary
 
-`1669`
-Lectiones opticæ.
+`2022-Curent`
+__Doctoral Teaching Associateship__
+_San Diego State University_
 
-etc. etc. etc.
+- Assist professors with research and teaching duties.
 
-### Patents
+`2020-2022`
+__Research Data Analyst__
+_Center for Geospatial Sciences_
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Produce research furthering the understanding of urban development policies, neighborhood and education segregation, and educational pathways.
+- Aggregate, describe, and translate spatial education data for incorporation into spatial optimization modelling.
+- Fulfill a Gates Foundation grant to incorporate spatial education data with the Python Spatial Analysis Library (PySAL).
+- High level programmatic scripting using python and open source data sourcing.
+- Produce documentation and user guides for interested parties from all levels of computational backgrounds.
+- Website creation, marketing design, special projects as needed.
 
+`2019-2020`
+__Public Service Fellow__
+_Western Riverside Council of governments_
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Evaluation of homelessness services, assessment of gaps in services and most effective homelessness prevention strategies.
+- Lead for Traffic Sign Database Management project.
+- Service rate development for residential and commercial waste hauling services.
+- Assisted Senior Management Analyst, Public Information Officer, Planning Director, Public Works Director, Building Manager, City Engineer on various city projects.
+- Event planning: Parade route, traffic, and crowd management; float building.
 
 
 
