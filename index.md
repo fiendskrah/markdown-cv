@@ -3,7 +3,7 @@ layout: cv
 title: Dylan Skrah's CV
 ---
 # Dylan Skrah
-Physicist, Mathematician, Cambridge professor.
+Graduate Student, Aspiring Supervillian
 
 <div id="webaddress">
 <a href="dylan.skrah@gmail.com">dylan.skrah@gmail.com</a>
