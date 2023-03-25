@@ -26,30 +26,6 @@ State and municipal policy making: education systems, homelessness, regional eco
 
 Also casually interested in the proliferation of digital cultures.
 
-
-## Education
-
-`2022-Current`
-__Joint Doctrate of Philosophy in Geography__
-_San Diego State Universty_
-_University of California, Santa Barbara_ 
-
-`2018-2020`
-__Master of Public Policy__
-_Emphasis in Urban Policy_
-
-`2016-2018`
-__Bachelor of Arts__
-_Media and Cultural Studies_
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-`School-Neighborhoods or Neighborhood-Schoools`
-_forthcoming_
-
 ## Career Summary
 
 `2022-Curent`
@@ -79,10 +55,36 @@ _Western Riverside Council of governments_
 - Assisted Senior Management Analyst, Public Information Officer, Planning Director, Public Works Director, Building Manager, City Engineer on various city projects.
 - Event planning: Parade route, traffic, and crowd management; float building.
 
+
+## Publications
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
+`School-Neighborhoods or Neighborhood-Schoools`
+_forthcoming_
+
+
 ## Presentations
 `School Neighborhoods or Neighborhood schools?`
 __American Association of Geographers Annual Meeting__
 _March 25th, 2023; Denver, Colorado_
+
+
+
+## Education
+
+`2022-Current`
+__Joint Doctrate of Philosophy in Geography__
+_San Diego State Universty_
+_University of California, Santa Barbara_ 
+
+`2018-2020`
+__Master of Public Policy__
+_Emphasis in Urban Policy_
+
+`2016-2018`
+__Bachelor of Arts__
+_Media and Cultural Studies_
+
 
 
 <!-- ### Footer
