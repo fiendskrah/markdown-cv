@@ -79,6 +79,10 @@ _Western Riverside Council of governments_
 - Assisted Senior Management Analyst, Public Information Officer, Planning Director, Public Works Director, Building Manager, City Engineer on various city projects.
 - Event planning: Parade route, traffic, and crowd management; float building.
 
+## Presentations
+`School Neighborhoods or Neighborhood schools?`
+__American Association of Geographers Annual Meeting__
+_March 25th, 2023; Denver, Colorado_
 
 
 <!-- ### Footer
