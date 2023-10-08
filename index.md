@@ -3,28 +3,29 @@ layout: cv
 title: Dylan Skrah's CV
 ---
 # Dylan Skrah
-Graduate Student, Aspiring Supervillian
+Graduate Student, Aspiring Researcher
 
 <div id="webaddress">
 <a href="dylan.skrah@gmail.com">dylan.skrah@gmail.com</a>
 | <a href="https://www.linkedin.com/in/dylanskrah/">My linkdin page</a>
 </div>
 
-
 ## Currently
 
-Building geographic models for complex urban problems.
+At University of California, Santa Barbara progressing through the Joint Doctoral Program in Geography.
 
 ### Specialized in
 
-Geographic information systems, spatial data analysis, policy analysis.
-
+Spatial data analysis and spatial optimization modeling.
 
 ### Research interests
 
-State and municipal policy making: education systems, homelessness, regional economics.
+State and municipal policy making: education systems and regional
+economics. What are the most appropriate ways to employ optimization
+modeling to district municpal education systems? How can we use the
+edge of spatial analytics to solve major societal issues?
 
-Also casually interested in the proliferation of digital cultures.
+Also casually interested in the proliferation of digital cultures. 
 
 ## Career Summary
 
@@ -32,7 +33,7 @@ Also casually interested in the proliferation of digital cultures.
 __Doctoral Teaching Associateship__
 _San Diego State University_
 
-- Assist professors with research and teaching duties.
+- Assist faculty with research and teaching duties.
 
 `2020-2022`
 __Research Data Analyst__
@@ -58,7 +59,7 @@ _Western Riverside Council of governments_
 ## Education
 
 `2022-Current`
-__Joint Doctrate of Philosophy in Geography__
+__Joint Doctorate of Philosophy in Geography__
 _San Diego State Universty_
 _University of California, Santa Barbara_ 
 
@@ -74,16 +75,30 @@ _Media and Cultural Studies_
 ## Publications
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-__School-Neighborhoods or Neighborhood-Schoools?__
-`forthcoming`
+<!-- __School-Neighborhoods or Neighborhood-Schoools?__ -->
+`forthcoming, but not here yet`
 
 
-## Presentations
+## Talks and Presentations
 __School Neighborhoods or Neighborhood schools?__
 _American Association of Geographers Annual Meeting_
 `March 25th, 2023; Denver, Colorado`
 
+__La Mesa Community Police Oversight Board Survey Results__
+_La Mesa Community Police Oversight Board Meeting_
+`September 20th, 2023; La Mesa, California`
 
+__Upcomming__
+_Association of Pacific Coast Geographer's Meeting_
+`October 19th, 2023; Ventura, CA`
+
+__Upcomming__
+_Western Regional Science Association's Meeting_
+`February 11, 2024; Monterey, CA`
+
+__Upcomming__
+_American Assocation of Geographer's Meeting_
+`April 17th, 2024; Honolulu, HI`
 <!-- ### Footer
 
 Last updated: May 2013 -->
