@@ -50,11 +50,7 @@ _Center for Geospatial Sciences_
 __Public Service Fellow__
 _Western Riverside Council of governments_
 
-- Evaluation of homelessness services, assessment of gaps in services and most effective homelessness prevention strategies.
-- Lead for Traffic Sign Database Management project.
-- Service rate development for residential and commercial waste hauling services.
-- Assisted Senior Management Analyst, Public Information Officer, Planning Director, Public Works Director, Building Manager, City Engineer on various city projects.
-- Event planning: Parade route, traffic, and crowd management; float building.
+- Extended internship in city mangement. Evaluation of homelessness services. Lead for Traffic Sign Database Management project. Event planning: Parade route, traffic, and crowd management; float building.
 
 ## Education
 
@@ -73,8 +69,8 @@ _Media and Cultural Studies_
 
 
 ## Publications
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 <!-- __School-Neighborhoods or Neighborhood-Schoools?__ -->
 `forthcoming, but not here yet`
 
@@ -82,25 +78,28 @@ _Media and Cultural Studies_
 ## Talks and Presentations
 __School Neighborhoods or Neighborhood schools?__
 _American Association of Geographers Annual Meeting_
-`March 25th, 2023; Denver, Colorado`
+`March 25th, 2023;
+Denver, Colorado`
 
 __La Mesa Community Police Oversight Board Survey Results__
 _La Mesa Community Police Oversight Board Meeting_
-`September 20th, 2023; La Mesa, California`
+`September 20th, 2023; 
+La Mesa, California`
 
 __Upcomming__
 _Association of Pacific Coast Geographer's Meeting_
-`October 19th, 2023; Ventura, CA`
+`October 19th, 2023;
+Ventura, CA`
 
 __Upcomming__
 _Western Regional Science Association's Meeting_
-`February 11, 2024; Monterey, CA`
+`February 11, 2024;
+Monterey, CA`
 
 __Upcomming__
 _American Assocation of Geographer's Meeting_
-`April 17th, 2024; Honolulu, HI`
-<!-- ### Footer
-
-Last updated: May 2013 -->
+`April 17th, 2024;
+Honolulu, HI`
+<!-- ### Footer Last updated: Oct 23 -->
 
 
