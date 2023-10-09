@@ -39,18 +39,18 @@ _San Diego State University_
 __Research Data Analyst__
 _Center for Geospatial Sciences_
 
-- Produce research furthering the understanding of urban development policies, neighborhood and education segregation, and educational pathways.
-- Aggregate, describe, and translate spatial education data for incorporation into spatial optimization modelling.
-- Fulfill a Gates Foundation grant to incorporate spatial education data with the Python Spatial Analysis Library (PySAL).
-- High level programmatic scripting using python and open source data sourcing.
-- Produce documentation and user guides for interested parties from all levels of computational backgrounds.
-- Website creation, marketing design, special projects as needed.
+- 'Pre-doc' position in spatial data analysis
+- Modeling relationships between neighborhoods and schools.
+- Contributing to PySAL (python spatial analysis library).
 
 `2019-2020`
 __Public Service Fellow__
-_Western Riverside Council of governments_
+_Western Riverside Council of Governments_
 
-- Extended internship in city mangement. Evaluation of homelessness services. Lead for Traffic Sign Database Management project. Event planning: Parade route, traffic, and crowd management; float building.
+- Extended internship in city mangement.
+- Evaluation of homelessness services. 
+- Lead for Traffic Sign Database Management project. 
+- Event planning: Parade route, traffic, and crowd management; float building.
 
 ## Education
 
@@ -67,7 +67,6 @@ _Emphasis in Urban Policy_
 __Bachelor of Arts__
 _Media and Cultural Studies_
 
-
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
@@ -77,29 +76,25 @@ _Media and Cultural Studies_
 
 ## Talks and Presentations
 __School Neighborhoods or Neighborhood schools?__
-_American Association of Geographers Annual Meeting_
-`March 25th, 2023;
-Denver, Colorado`
+_American Association of Geographers Annual Meeting; March 25th, 2023_
+`Denver, Colorado`
 
 __La Mesa Community Police Oversight Board Survey Results__
-_La Mesa Community Police Oversight Board Meeting_
-`September 20th, 2023; 
-La Mesa, California`
+_La Mesa Community Police Oversight Board Meeting; September 20th, 2023_
+`La Mesa, California`
 
 __Upcomming__
-_Association of Pacific Coast Geographer's Meeting_
-`October 19th, 2023;
-Ventura, CA`
+_Association of Pacific Coast Geographer's Meeting; October 19th, 2023_
+`Ventura, CA`
 
 __Upcomming__
-_Western Regional Science Association's Meeting_
-`February 11, 2024;
-Monterey, CA`
+_Western Regional Science Association's Meeting; February 11, 2024_
+`Monterey, CA`
 
 __Upcomming__
-_American Assocation of Geographer's Meeting_
-`April 17th, 2024;
-Honolulu, HI`
+_American Assocation of Geographer's Meeting; April 17th, 2024_
+`Honolulu, HI`
+
 <!-- ### Footer Last updated: Oct 23 -->
 
 
