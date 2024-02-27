@@ -12,7 +12,8 @@ Graduate Student, Aspiring Researcher
 
 ## Currently
 
-At University of California, Santa Barbara progressing through the Joint Doctoral Program in Geography.
+Progressing through the Joint Doctoral Program in Geography at San
+Diego State University and University of California, Santa Barbara.
 
 ### Specialized in
 
@@ -47,10 +48,7 @@ _Center for Geospatial Sciences_
 __Public Service Fellow__
 _Western Riverside Council of Governments_
 
-- Extended internship in city mangement.
-- Evaluation of homelessness services. 
-- Lead for Traffic Sign Database Management project. 
-- Event planning: Parade route, traffic, and crowd management; float building.
+- Extended internship in municipal mangement.
 
 ## Education
 
@@ -83,17 +81,13 @@ __La Mesa Community Police Oversight Board Survey Results__
 _La Mesa Community Police Oversight Board Meeting; September 20th, 2023_
 `La Mesa, California`
 
-__Upcomming__
+__Neighborhood Fragmentation Dynamics: A Comparative Perspective__
 _Association of Pacific Coast Geographer's Meeting; October 19th, 2023_
 `Ventura, CA`
 
-__Upcomming__
+__Neighborhood Fragmentation Dynamics: A Comparative PerspectiveUpcomming__
 _Western Regional Science Association's Meeting; February 11, 2024_
 `Monterey, CA`
-
-__Upcomming__
-_American Assocation of Geographer's Meeting; April 17th, 2024_
-`Honolulu, HI`
 
 <!-- ### Footer Last updated: Oct 23 -->
 
