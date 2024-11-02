@@ -24,10 +24,8 @@ __Jointi Doctoral Program Student Researcher and Teaching Associate__<br>
 _San Diego State University_
 
 - Conduct research, preparing papers for publication.
-
 - Teaching courses pursuant to requirements for conferral of doctoral
   degree.
-  
 - Emphasis: spatial analysis, education systems, urban policy.
 
 `2020-2022`
