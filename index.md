@@ -11,15 +11,11 @@ University and University of California Santa Barbara.
 <a href="https://www.linkedin.com/in/dylanskrah/">My linkdin page</a>
 </div>
 
-## Currently
-
-Reading widely.
-
 ### Research interests
 
 Urban policy and education systems. How places are construed through
-digital geographies. Quantitative methods to construct and explore
-regional characteristics of urban environments.
+digital geographies. Quantitative methods for the construction and
+exploration of regional characteristics of urban environments.
 
 ## Career Summary
 
@@ -27,9 +23,11 @@ regional characteristics of urban environments.
 __Jointi Doctoral Program Student Researcher and Teaching Associate__<br>
 _San Diego State University_
 
-- Conduct research including preparing papers for publications and
-  teaching courses pursuant to requirements for conferral of doctoral
+- Conduct research, preparing papers for publication.
+
+- Teaching courses pursuant to requirements for conferral of doctoral
   degree.
+  
 - Emphasis: spatial analysis, education systems, urban policy.
 
 `2020-2022`
