@@ -45,7 +45,7 @@ __Public Service Fellow__<br>
 _Western Riverside Council of Governments_
 - Extended internship in municipal governance and mangement.
 
-## Graduate Experience
+## Teaching Experience
 ### Instructor of Record
 __GEOG 104: Geographic Information Sciences and Spatial Reasoning__<br>
 _San Diego State University_
@@ -56,14 +56,14 @@ __GEOG 385: Spatial Data Analysis__<br>
 _San Diego State University_
 `Spring 2023`
 
-__PBPL 025: Introduction to Public Policy__<br>
+__PBPL 025: Introduction to Public Policy (3 sections)__<br>
 _University of California, Riverside_
-`Spring 2020 (3 sections)`<br>
-`Fall 2019 (3 sections)`
+`Spring 2020` <br>
+`Fall 2019`
 
-__MCS 025: Introduction to Media and Cultural Studies__<br>
+__MCS 025: Introduction to Media and Cultural Studies (3 sections)__<br>
 _University of California, Riverside_
-`Spring 2019 (3 sections)`
+`Spring 2019`
 
 ## Education
 
@@ -87,8 +87,8 @@ _Media and Cultural Studies_
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 __Measuring Spatial Congruence in the School-Neighborhood Nexus__<br>
-Rey, Sergio J.; Knaap, Elijah; Wei, Ran; and Skrah, Dylan <br> 
-_Applied Spatial Analysis and Policy, DOI: 10.1007/s12061-024-09603-9_
+_Rey, Sergio J.; Knaap, Elijah; Wei, Ran; and Skrah, Dylan_ <br> 
+Applied Spatial Analysis and Policy, DOI: 10.1007/s12061-024-09603-9
 
 <!--
 __()Neighborhood Fragmentation Dynamics: A Comparative Perspective__
@@ -119,11 +119,11 @@ _Association of Pacific Coast Geographer's Meeting; October 19th, 2023_
 
 __La Mesa Community Police Oversight Board Survey Results__<br>
 _La Mesa Community Police Oversight Board Meeting; September 20th, 2023_
-`La Mesa, California`
+`La Mesa, CA`
 
 __School Neighborhoods or Neighborhood Schools?__<br>
 _American Association of Geographers Annual Meeting; March 25th, 2023_
-`Denver, Colorado`
+`Denver, CO`
 
 ## Grants and Awards
 __(2023) Student Travel Grant__<br>
