@@ -53,12 +53,13 @@ _San Diego State University__
 
 ### Teaching Assistant
 __GEOG 385: Spatial Data Analysis__
-_San Diego State University__
+_San Diego State University_
 `Spring 2023`
 
 __PBPL 025: Introduction to Public Policy__
 _University of California, Riverside_
-`Spring 2020 (3 sections), Fall 2019 (3 sections)`
+`Spring 2020 (3 sections)`<br>
+`Fall 2019 (3 sections)`
 
 __MCS 025: Introduction to Media and Cultural Studies__
 _University of California, Riverside_
@@ -86,8 +87,8 @@ _Media and Cultural Studies_
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 __Measuring Spatial Congruence in the School-Neighborhood Nexus__
-_Rey, Sergio J.; Knaap, Elijah; Wei, Ran; and Skrah, Dylan_ 
-_Applied Spatial Analysis and Policy, DOI: 10.1007/s12061-024-09603-9__
+_Rey, Sergio J.; Knaap, Elijah; Wei, Ran; and Skrah, Dylan_ <br> 
+_Applied Spatial Analysis and Policy, DOI: 10.1007/s12061-024-09603-9_
 
 <!--
 __()Neighborhood Fragmentation Dynamics: A Comparative Perspective__
