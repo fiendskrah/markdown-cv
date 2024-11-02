@@ -63,7 +63,7 @@ _University of California, Riverside_
 
 __MCS 025: Introduction to Media and Cultural Studies__
 _University of California, Riverside_
-`Spring 2019 (sections)`
+`Spring 2019 (3 sections)`
 
 ## Education
 
@@ -87,7 +87,7 @@ _Media and Cultural Studies_
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 __Measuring Spatial Congruence in the School-Neighborhood Nexus__
-_Rey, Sergio J.; Knaap, Elijah; Wei, Ran; and Skrah, Dylan_ <br> 
+Rey, Sergio J.; Knaap, Elijah; Wei, Ran; and Skrah, Dylan <br> 
 _Applied Spatial Analysis and Policy, DOI: 10.1007/s12061-024-09603-9_
 
 <!--
