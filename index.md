@@ -48,7 +48,7 @@ _Western Riverside Council of Governments_
 ## Graduate Experience
 ### Instructor of Record
 __GEOG 104: Geographic Information Sciences and Spatial Reasoning__
-_San Diego State University__
+_San Diego State University_
 `Fall 2024`
 
 ### Teaching Assistant
