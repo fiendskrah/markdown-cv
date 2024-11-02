@@ -87,7 +87,7 @@ _Media and Cultural Studies_
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 __Measuring Spatial Congruence in the School-Neighborhood Nexus__
 _Rey, Sergio J.; Knaap, Elijah; Wei, Ran; and Skrah, Dylan_ 
-`Applied Spatial Analysis and Policy, DOI: 10.1007/s12061-024-09603-9`
+_Applied Spatial Analysis and Policy, DOI: 10.1007/s12061-024-09603-9__
 
 <!--
 __()Neighborhood Fragmentation Dynamics: A Comparative Perspective__
