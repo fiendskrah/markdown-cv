@@ -24,7 +24,7 @@ regional characteristics of urban environments.
 ## Career Summary
 
 `2022-Curent`
-__Jointi Doctoral Program Student Researcher and Teaching Associate__
+__Jointi Doctoral Program Student Researcher and Teaching Associate__<br>
 _San Diego State University_
 
 - Conduct research including preparing papers for publications and
@@ -33,7 +33,7 @@ _San Diego State University_
 - Emphasis: spatial analysis, education systems, urban policy.
 
 `2020-2022`
-__Research Data Analyst__
+__Research Data Analyst__<br>
 _Center for Geospatial Sciences_
 
 - 'Pre-doc' position in spatial data analysis.
@@ -41,44 +41,44 @@ _Center for Geospatial Sciences_
 - Contributing to PySAL (python spatial analysis library)
 
 `2019-2020`
-__Public Service Fellow__
+__Public Service Fellow__<br>
 _Western Riverside Council of Governments_
 - Extended internship in municipal governance and mangement.
 
 ## Graduate Experience
 ### Instructor of Record
-__GEOG 104: Geographic Information Sciences and Spatial Reasoning__
+__GEOG 104: Geographic Information Sciences and Spatial Reasoning__<br>
 _San Diego State University_
 `Fall 2024`
 
 ### Teaching Assistant
-__GEOG 385: Spatial Data Analysis__
+__GEOG 385: Spatial Data Analysis__<br>
 _San Diego State University_
 `Spring 2023`
 
-__PBPL 025: Introduction to Public Policy__
+__PBPL 025: Introduction to Public Policy__<br>
 _University of California, Riverside_
 `Spring 2020 (3 sections)`<br>
 `Fall 2019 (3 sections)`
 
-__MCS 025: Introduction to Media and Cultural Studies__
+__MCS 025: Introduction to Media and Cultural Studies__<br>
 _University of California, Riverside_
 `Spring 2019 (3 sections)`
 
 ## Education
 
 `2022-Current`
-__Joint Doctorate of Philosophy in Geography__
-_San Diego State Universty_
+__Joint Doctorate of Philosophy in Geography__<br>
+_San Diego State Universty_<br>
 _University of California, Santa Barbara_ 
 
 `2018-2020`
-__Master of Public Policy__
+__Master of Public Policy__<br>
 _Emphasis in Urban Policy_
 
 
 `2016-2018`
-__Bachelor of Arts__
+__Bachelor of Arts__<br>
 _Media and Cultural Studies_
 
 ## Publications
@@ -86,7 +86,7 @@ _Media and Cultural Studies_
 ### Refereed Journal Articles
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-__Measuring Spatial Congruence in the School-Neighborhood Nexus__
+__Measuring Spatial Congruence in the School-Neighborhood Nexus__<br>
 Rey, Sergio J.; Knaap, Elijah; Wei, Ran; and Skrah, Dylan <br> 
 _Applied Spatial Analysis and Policy, DOI: 10.1007/s12061-024-09603-9_
 
@@ -109,33 +109,31 @@ __dist-opt__
 _Natinal Association of Regional Science Conference; November 13, 2024_
 `New Orleans, LA`
 -->
-__Neighborhood Fragmentation Dynamics: A Comparative Perspective__
+__Neighborhood Fragmentation Dynamics: A Comparative Perspective__<br>
 _Western Regional Science Association's Meeting; February 11, 2024_
 `Monterey, CA`
 
-__Neighborhood Fragmentation Dynamics: A Comparative Perspective__
+__Neighborhood Fragmentation Dynamics: A Comparative Perspective__<br>
 _Association of Pacific Coast Geographer's Meeting; October 19th, 2023_
 `Ventura, CA`
 
-__La Mesa Community Police Oversight Board Survey Results__
+__La Mesa Community Police Oversight Board Survey Results__<br>
 _La Mesa Community Police Oversight Board Meeting; September 20th, 2023_
 `La Mesa, California`
 
-__School Neighborhoods or Neighborhood Schools?__
+__School Neighborhoods or Neighborhood Schools?__<br>
 _American Association of Geographers Annual Meeting; March 25th, 2023_
 `Denver, Colorado`
 
 ## Grants and Awards
-__(2023) Student Travel Grant__
+__(2023) Student Travel Grant__<br>
 _American Pacific Coast Geographer's 85th Annual Meeting, October 19th, 2023_
 
-__(2020) Mayor's Recognition__
-_Jurupa Valley City Council Meeting_
+__(2020) Mayor's Recognition__<br>
+_Jurupa Valley City Council Meeting, February 2020_
 
 ## Professional Memberships
-__Western Regional Science Association__
-__National Regional Science Association__
-__American Association of Geographers__
-<!-- ### Footer Last updated: Oct 23 -->
-
-
+Western Regional Science Association <br>
+National Regional Science Association <br>
+American Association of Geographers <br>
+<!-- ### Footer Last updated: nov 2 2024 -->
